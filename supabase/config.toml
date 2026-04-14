@@ -1,0 +1,4 @@
+project_id = "jioblxkzfqkhqvnhslsi"
+
+[functions.homiii-chat]
+verify_jwt = false
